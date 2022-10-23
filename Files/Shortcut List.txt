@@ -1,0 +1,29 @@
+What this list contains:
+	- Starting & Misc. (basically the $$ and things you need to do at the start)
+	- Customizations
+	- Symbols
+	- Equations stuff (Like sum, integral, fraction, etc. idk what to call it)
+--------------------------------------------------------------------------------------
+
+
+- STARTING & MISC.
+	- $$$$	 : Shift & L
+	- \space : Shift & Space 
+
+- CUSTOMIZATION
+	- SIZES
+		- \large : Shift & F1
+		- \Large : Shift & F2
+		- \huge  : Shift & F3
+		- \Huge  : Shift & F4
+	- OTHER	
+		- \color : Shift & C
+
+- SYMBOLS
+	- \infty (infinity) : Shift & Control & 8
+
+- EQUATIONS STUFF	
+	- \times (cross product) : Shift & X
+	- \frac  (division)	 : Shift & F
+	- \sum   (sum series)	 : Shift & S
+	- \int   (integration) 	 : Shift & I
