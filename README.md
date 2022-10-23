@@ -32,13 +32,13 @@ What this list contains:
 		- \color : Shift & C
 
 - SYMBOLS
-	- \infty (infinity) : Shift & Control & 8
+	- $\color{pink} \infty$ \infty : Shift & Control & 8
 
 - EQUATIONS SYMBOLS	
-	- \times (cross product) : Shift & X
-	- \frac  (division)	 : Shift & F
-	- \sum   (sum series)	 : Shift & S
-	- \int   (integration) 	 : Shift & I
+	- $\color{pink} \times$ \times : Shift & X
+	- $\color{pink} \frac{1}{2}$ \frac : Shift & F
+	- $\color{pink} \sum$ \sum : Shift & S
+	- $\color{pink} \int$ \int : Shift & I
 
 
 
