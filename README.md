@@ -1,6 +1,7 @@
 # LaTeX-shortcuts
 This is a script that let's you use shortcuts for writing LaTex syntax faster.
 (Please note these shortcuts are made with only Windows 10 in mind)
+
 ![ezgif-4-7b01307493](https://user-images.githubusercontent.com/55362397/197396824-a3c4e70b-30f4-4c7c-be11-270c7d056b85.gif)
 
 # How to install
